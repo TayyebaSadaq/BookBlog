@@ -98,7 +98,7 @@ header.shadow.logo{
 .home{
     width: 100%;
     min-height: 400px;
-    background: url(""); /* add the url for photo */
+    background: url("images/banner.png"); /* add the url for photo */
     display: grid;
     justify-content: center;
     align-items: center;
