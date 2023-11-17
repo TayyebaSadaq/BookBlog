@@ -97,7 +97,7 @@ header.shadow.logo{
 .home{
     width: 100%;
     min-height: 400px;
-    background: url("bookblog/banner.png"); /* Change the url */
+    background: url(""); /* add the url for photo */
     display: grid;
     justify-content: center;
     align-items: center;
