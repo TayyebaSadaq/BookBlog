@@ -92,3 +92,12 @@ header.shadow.logo{
 .login:hover{
     background: var(--container-color);
 }
+
+.home{
+    width: 100%;
+    min-height: 440px;
+    background: url("https://unsplash.com/photos/black-typewriter-d34DtRp1bqo");
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
