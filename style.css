@@ -10,10 +10,11 @@
 
 /* Root Values */
 :root{
-    --container-color:#5f5dbd;
-    --second-color:#5e87b8;
-    --text-color:#172317;
-    --bg-color:#83cee0;
+    /*colour scheme to be finalised*/
+    --container-color:#340606;
+    --second-color:#480303;
+    --text-color:#000000;
+    --bg-color:#1f0707;
 
 }
 
@@ -55,7 +56,7 @@ header{
 
 header.shadow{
     background: var(--bg-color);
-    box-shadow: 0 1px 4px #1d3859;
+    box-shadow: 0 1px 4px #702925;
     transition: .5s;
 }
 
